@@ -1,0 +1,33 @@
+Name={--overlay-id, Super Game Boy}
+Values={0, Default}, {1, Alternate}, {2, Black}, {3, Circuit}, {4, Green}, {5, Pale Blue}, {6, Red}, {7, Yellow}
+
+Name={--overlay-id, Super Game Boy 2}
+Values={8, Default}, {9, Alternate}, {10, Circuit}, {11, Circuit (dim)}
+
+Name={--overlay-id, Super Game Boy 2 Colours}
+Values={12, Blue}, {13, Green}, {14, Grey}, {15, Pink}, {16, Red}, {17, Yellow}
+
+Name={--overlay-id, Game Boy Pocket}
+Values={18, Black}, {19, Green}, {20, Red}, {21, Yellow}, {22, Silver}, {23, Silver Alt}, {24, Stone Gold}, {25, Stone Silver}
+
+Name={--overlay-id, Game Boy Color}
+Values={26, Blue}, {27, Dandelion}, {28, Grape}, {29, Kiwi}, {30, Red}, {31, Teal}
+
+Name={--overlay-id, Game Boy Color Alt}
+Values={32, Blue}, {33, Dandelion}, {34, Grape}, {35, Kiwi}, {36, Red}, {37, Teal}
+
+Name={--overlay-id, Super Game Boy Color}
+Values={38, Berry}, {39, Dandelion}, {40, Grape}, {41, Kiwi}, {42, Magenta}, {43, Red}, {44, Teal}
+
+Name={--overlay-id, Game Boy Advance}
+Values={45, Black}, {46, Black Alt}, {47, Indigo}, {48, Indigo Alt}, {49, Platinum}, {50, Platinum Alt}, {51, Spice}, {52, Spice Alt}
+
+Name={--overlay-id, Super Game Boy Advance}
+Values={53, Black}, {54, Black Alt}, {55, Indigo}, {56, Indigo Alt}, {57, Platinum}, {58, Platinum Alt}, {59, Spice}, {60, Spice Alt}
+
+Name={--overlay-id, Pokemon}
+Values={61, Red}, {62, Green}, {63, Blue}, {64, Yellow}, {65, Gold}, {66, Silver}, {67, Crystal}
+
+Name={--overlay-id, Other Super Game Boy Games}
+Values={68, Zelda LADX}, {69, Castlevania Legs.}, {70, DK Land}, {71, Game & Watch}, {72, Kirby 2}, {73, Mega Man 5}, {74, Wario Land}
+
