@@ -17,7 +17,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> sgb.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/sgb.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/sgb.png'>
         </td>
         <td>
             <p>
@@ -26,7 +26,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> sgb-tetris.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/sgb-tetris.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/sgb-tetris.png'>
         </td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-black.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-black.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-black.png'>
         </td>
         <td>
             <p>
@@ -46,7 +46,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-circuitboard.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-circuitboard.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-circuitboard.png'>
         </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-green.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-green.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-green.png'>
         </td>
         <td>
             <p>
@@ -66,7 +66,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-pale-blue.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-pale-blue.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-pale-blue.png'>
         </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-red.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-red.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-red.png'>
         </td>
         <td>
             <p>
@@ -86,7 +86,7 @@
                 <strong>Folder:</strong> sgb<br>
                 <strong>File:</strong> mariopicross-yellow.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/1x/mariopicross-yellow.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb/2x/mariopicross-yellow.png'>
         </td>
     </tr>
 </table>
@@ -106,7 +106,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2.png'>
         </td>
         <td>
             <p>
@@ -115,7 +115,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-alt.png'>
         </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-circuitboard.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-circuitboard.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-circuitboard.png'>
         </td>
         <td>
             <p>
@@ -135,7 +135,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-circuitboard-dim.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-circuitboard-dim.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-circuitboard-dim.png'>
         </td>
     </tr>
 </table>
@@ -155,7 +155,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-blue.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-blue.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-blue.png'>
         </td>
         <td>
             <p>
@@ -164,7 +164,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-green.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-green.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-green.png'>
         </td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-grey.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-grey.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-grey.png'>
         </td>
         <td>
             <p>
@@ -184,7 +184,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-pink.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-pink.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-pink.png'>
         </td>
     </tr>
     <tr>
@@ -195,7 +195,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-red.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-red.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-red.png'>
         </td>
         <td>
             <p>
@@ -204,7 +204,7 @@
                 <strong>Folder:</strong> sgb2<br>
                 <strong>File:</strong> sgb2-yellow.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/1x/sgb2-yellow.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgb2/2x/sgb2-yellow.png'>
         </td>
     </tr>
 </table>
@@ -224,7 +224,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-black.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-black.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-black.png'>
         </td>
         <td>
             <p>
@@ -233,7 +233,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-green.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-green.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-green.png'>
         </td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-red.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-red.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-red.png'>
         </td>
         <td>
             <p>
@@ -253,7 +253,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-yellow.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-yellow.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-yellow.png'>
         </td>
     </tr>
     <tr>
@@ -264,7 +264,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-silver.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-silver.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-silver.png'>
         </td>
         <td>
             <p>
@@ -273,7 +273,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-silver-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-silver-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-silver-alt.png'>
         </td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-stone-gold.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-stone-gold.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-stone-gold.png'>
         </td>
         <td>
             <p>
@@ -293,7 +293,7 @@
                 <strong>Folder:</strong> gbp<br>
                 <strong>File:</strong> gbp-stone-silver.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/1x/gbp-stone-silver.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbp/2x/gbp-stone-silver.png'>
         </td>
     </tr>
 </table>
@@ -313,7 +313,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-blue.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-blue.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-blue.png'>
         </td>
         <td>
             <p>
@@ -322,7 +322,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-dandelion.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-dandelion.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-dandelion.png'>
         </td>
     </tr>
     <tr>
@@ -333,7 +333,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-grape.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-grape.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-grape.png'>
         </td>
         <td>
             <p>
@@ -342,7 +342,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-kiwi.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-kiwi.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-kiwi.png'>
         </td>
     </tr>
     <tr>
@@ -353,7 +353,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-red.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-red.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-red.png'>
         </td>
         <td>
             <p>
@@ -362,7 +362,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-teal.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-teal.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-teal.png'>
         </td>
     </tr>
 </table>
@@ -382,7 +382,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-blue-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-blue-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-blue-alt.png'>
         </td>
         <td>
             <p>
@@ -391,7 +391,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-dandelion-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-dandelion-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-dandelion-alt.png'>
         </td>
     </tr>
     <tr>
@@ -402,7 +402,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-grape-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-grape-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-grape-alt.png'>
         </td>
         <td>
             <p>
@@ -411,7 +411,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-kiwi-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-kiwi-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-kiwi-alt.png'>
         </td>
     </tr>
     <tr>
@@ -422,7 +422,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-red-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-red-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-red-alt.png'>
         </td>
         <td>
             <p>
@@ -431,7 +431,7 @@
                 <strong>Folder:</strong> gbc<br>
                 <strong>File:</strong> gbc-teal-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/1x/gbc-teal-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gbc/2x/gbc-teal-alt.png'>
         </td>
     </tr>
 </table>
@@ -451,7 +451,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-berry.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-berry.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-berry.png'>
         </td>
         <td>
             <p>
@@ -460,7 +460,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-dandelion.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-dandelion.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-dandelion.png'>
         </td>
     </tr>
     <tr>
@@ -471,7 +471,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-grape.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-grape.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-grape.png'>
         </td>
         <td>
             <p>
@@ -480,7 +480,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-kiwi.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-kiwi.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-kiwi.png'>
         </td>
     </tr>
     <tr>
@@ -491,7 +491,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-magenta.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-magenta.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-magenta.png'>
         </td>
         <td>
             <p>
@@ -500,7 +500,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-red.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-red.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-red.png'>
         </td>
     </tr>
     <tr>
@@ -511,7 +511,7 @@
                 <strong>Folder:</strong> sgbc<br>
                 <strong>File:</strong> sgbc-teal.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/1x/sgbc-teal.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgbc/2x/sgbc-teal.png'>
         </td>
     </tr>
 </table>
@@ -531,7 +531,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-black.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-black.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-black.png'>
         </td>
         <td>
             <p>
@@ -540,7 +540,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-black-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-black-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-black-alt.png'>
         </td>
     </tr>
     <tr>
@@ -551,7 +551,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-indigo.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-indigo.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-indigo.png'>
         </td>
         <td>
             <p>
@@ -560,7 +560,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-indigo-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-indigo-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-indigo-alt.png'>
         </td>
     </tr>
     <tr>
@@ -571,7 +571,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-platinum.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-platinum.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-platinum.png'>
         </td>
         <td>
             <p>
@@ -580,7 +580,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-platinum-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-platinum-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-platinum-alt.png'>
         </td>
     </tr>
     <tr>
@@ -591,7 +591,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-spice.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-spice.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-spice.png'>
         </td>
         <td>
             <p>
@@ -600,7 +600,7 @@
                 <strong>Folder:</strong> gba<br>
                 <strong>File:</strong> gba-spice-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/1x/gba-spice-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='gba/2x/gba-spice-alt.png'>
         </td>
     </tr>
 </table>
@@ -620,7 +620,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-black.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-black.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-black.png'>
         </td>
         <td>
             <p>
@@ -629,7 +629,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-black-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-black-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-black-alt.png'>
         </td>
     </tr>
     <tr>
@@ -640,7 +640,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-indigo.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-indigo.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-indigo.png'>
         </td>
         <td>
             <p>
@@ -649,7 +649,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-indigo-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-indigo-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-indigo-alt.png'>
         </td>
     </tr>
     <tr>
@@ -660,7 +660,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-platinum.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-platinum.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-platinum.png'>
         </td>
         <td>
             <p>
@@ -669,7 +669,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-platinum-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-platinum-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-platinum-alt.png'>
         </td>
     </tr>
     <tr>
@@ -680,7 +680,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-spice.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-spice.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-spice.png'>
         </td>
         <td>
             <p>
@@ -689,7 +689,7 @@
                 <strong>Folder:</strong> sgba<br>
                 <strong>File:</strong> sgba-spice-alt.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/1x/sgba-spice-alt.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='sgba/2x/sgba-spice-alt.png'>
         </td>
     </tr>
 </table>
@@ -709,7 +709,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokered.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokered.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokered.png'>
         </td>
         <td>
             <p>
@@ -718,7 +718,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokegreen.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokegreen.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokegreen.png'>
         </td>
     </tr>
     <tr>
@@ -729,7 +729,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokeblue.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokeblue.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokeblue.png'>
         </td>
         <td>
             <p>
@@ -738,7 +738,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokeyellow.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokeyellow.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokeyellow.png'>
         </td>
     </tr>
     <tr>
@@ -749,7 +749,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokegold.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokegold.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokegold.png'>
         </td>
         <td>
             <p>
@@ -758,7 +758,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokesilver.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokesilver.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokesilver.png'>
         </td>
     </tr>
     <tr>
@@ -769,7 +769,7 @@
                 <strong>Folder:</strong> games/pokemon<br>
                 <strong>File:</strong> pokecrystal.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/1x/pokecrystal.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/pokemon/2x/pokecrystal.png'>
         </td>
     </tr>
 </table>
@@ -789,7 +789,7 @@
                 <strong>Folder:</strong> games/zelda<br>
                 <strong>File:</strong> legzelda.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/zelda/1x/legzelda.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/zelda/2x/legzelda.png'>
         </td>
         <td>
             <p>
@@ -798,7 +798,7 @@
                 <strong>Folder:</strong> games/castleleg<br>
                 <strong>File:</strong> castleleg.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/castleleg/1x/castleleg.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/castleleg/2x/castleleg.png'>
         </td>
     </tr>
     <tr>
@@ -809,7 +809,7 @@
                 <strong>Folder:</strong> games/donkeyland<br>
                 <strong>File:</strong> donkeyland.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/donkeyland/1x/donkeyland.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/donkeyland/2x/donkeyland.png'>
         </td>
         <td>
             <p>
@@ -818,7 +818,7 @@
                 <strong>Folder:</strong> games/gamewatch<br>
                 <strong>File:</strong> gamewatch1-1.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/gamewatch/1x/gamewatch1-1.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/gamewatch/2x/gamewatch1-1.png'>
         </td>
     </tr>
     <tr>
@@ -829,7 +829,7 @@
                 <strong>Folder:</strong> games/kirby2<br>
                 <strong>File:</strong> kirby2.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/kirby2/1x/kirby2.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/kirby2/2x/kirby2.png'>
         </td>
         <td>
             <p>
@@ -838,7 +838,7 @@
                 <strong>Folder:</strong> games/megaman5<br>
                 <strong>File:</strong> megaman5.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/megaman5/1x/megaman5.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/megaman5/2x/megaman5.png'>
         </td>
     </tr>
     <tr>
@@ -849,7 +849,7 @@
                 <strong>Folder:</strong> games/warioland2<br>
                 <strong>File:</strong> warioland2-1.png<br>
             </p>
-            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/warioland2/1x/warioland2-1.png'>
+            <img style='image-rendering: pixelated; margin-bottom: 10px;' src='games/warioland2/2x/warioland2-1.png'>
         </td>
     </tr>
 </table>
