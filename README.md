@@ -16,7 +16,7 @@ This guide assumes you've followed Extrems' [installation guide](https://www.gc-
 
 ## Advanced Installation
 
-Some executables of GBI use a combined `.dol` and `.cli` file. If you use one these you will need to open the file in a text editor and add the lines from [RENAME-CLI.cli](/RENAME-CLI.cli) file to it. With the file open in a text editor like notepad, scroll to the bottom and you should see some CLI options with a URL after them. The below is from the `gbihf-xrgb.dol+cli` file:
+Some executables of GBI use a combined `.dol` and `.cli` file. If you use one of these you will need to open the file in a text editor and add the lines from [RENAME-CLI.cli](/RENAME-CLI.cli) file to it. With the file open in a text editor like notepad, scroll to the bottom and you should see some CLI options with a URL after them. The below is from the `gbihf-xrgb.dol+cli` file:
 
 ```
 --format=custom-m,offset=0,scaled-size=0:0
