@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">RW's GBI Border Pack</h1>
+<h1 align="center">RW's GBI Border Pack</h1>
 
-<p style="text-align: center;"><img style='image-rendering: pixelated; margin-bottom: 10px;' src='banner.png'></p>
+<p align="center"><img style='image-rendering: pixelated; margin-bottom: 10px;' src='banner.png'></p>
 
 A selection of borders for use with [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface), including Super Game Boy, Game Boy Color, and Game Boy Advance borders.
 
